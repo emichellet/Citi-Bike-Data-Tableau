@@ -2,6 +2,7 @@
 Module 18 Weekly Challenge
 ---
 # Link to my Tableau Story:
+[My Tableau Story](https://public.tableau.com/views/CitiBikeData_16860273926900/CitiBikeData2020?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Instructions
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
